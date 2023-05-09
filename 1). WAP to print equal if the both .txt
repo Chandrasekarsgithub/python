@@ -1,0 +1,6 @@
+1). WAP to print equal if the both inputs are equal
+def equal(a,b):
+     if a==b:
+         return 'Both Are Equal'
+     return 'Both Are Not Equal'
+ print(equal('ash','a1sh'))
